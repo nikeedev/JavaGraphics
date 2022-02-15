@@ -6,6 +6,6 @@ public class Main
         int Window_height = 650;
 
 
-        new CreateWindow("Main", Window_width, Window_height, true, "Hello World!", true, "Click me");
+        new CreateWindow("Main", Window_width, Window_height);
     }
 }
